@@ -33,6 +33,11 @@ header {
     width: 100%;
 }
 
+footer {
+    display: flex;
+    width: 100%;
+}
+
 img.icon {
     width: 1.5vw;
     height: 1.5vw;
@@ -92,3 +97,9 @@ li {
 hr.short {
     margin-left: inherit;
 }
+
+.vl {
+    margin-top: 10px;
+    border-left: 1px solid gray;
+    height: 200px;
+  }
